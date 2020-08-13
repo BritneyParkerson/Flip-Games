@@ -7,8 +7,8 @@ Games:
 - [] - Categories: A Family-Fued style game where you try to guess which items are listed under the category.
 - [] - Lib Master: A Mad Libs game where you fill in the blanks with funny things.
 - [] - Act Out: Charades game. Act out the item on your flip card for the others to guess
-- [] - 
-- [] - 
+- [] - Trivia
+- [] - Dumb Laws
 - [] - 
 - [] - 
 - [] - 
